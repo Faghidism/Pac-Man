@@ -1,5 +1,7 @@
 # Pac-Man Game Implementation
 
+![Image](https://github.com/user-attachments/assets/95627db8-69cd-415c-b955-855fe36df8c7)
+
 ## Project Description
 A Java-based Pac-Man game with GUI (mandatory) featuring core gameplay mechanics, customizable settings, and optional multiplayer functionality using client-server architecture.
 
